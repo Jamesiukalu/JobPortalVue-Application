@@ -1,0 +1,228 @@
+{
+  "jobs": [
+    {
+      "id": "89ad",
+      "type": "Part-Time",
+      "title": "Arnold Mertzss",
+      "description": "Corrupti assumenda harum neque sequi impedit veritatis.",
+      "salary": "$150K - $175K",
+      "location": "Mante, Paucek and Johnston",
+      "company": {
+        "name": "Armstrong LLC",
+        "description": "Mayer - Renner",
+        "contactEmail": "your.email+fakedata66146@gmail.com",
+        "contactPhone": "899-017-0502"
+      }
+    },
+    {
+      "id": "861f",
+      "type": "Remote",
+      "title": "Roxanne Hamill",
+      "description": "Vero sunt amet nulla sed architecto harum.",
+      "salary": "$100K - $125K",
+      "location": "Pfannerstill Group",
+      "company": {
+        "name": "Murray and Sons",
+        "description": "Bernhard, O'Keefe and Rippin",
+        "contactEmail": "your.email+fakedata84291@gmail.com",
+        "contactPhone": "841-577-8069"
+      }
+    },
+    {
+      "id": "8ce8",
+      "type": "Remote",
+      "title": "Roxanne Hamill James",
+      "description": "Vero sunt amet nulla sed architecto harum.",
+      "salary": "$100K - $125K",
+      "location": "Pfannerstill Group",
+      "company": {
+        "name": "Murray and Sons",
+        "description": "Bernhard, O'Keefe and Rippin",
+        "contactEmail": "your.email+fakedata84291@gmail.com",
+        "contactPhone": "841-577-8069"
+      }
+    },
+    {
+      "id": "ec37",
+      "type": "Part-Time",
+      "title": "Nathanael Erdman",
+      "description": "Placeat nesciunt cum.",
+      "salary": "$80K - $90K",
+      "location": "Gulgowski, Bernier and Leffler",
+      "company": {
+        "name": "Keebler, Beier and Lemke",
+        "description": "Kautzer - Mante",
+        "contactEmail": "your.email+fakedata66740@gmail.com",
+        "contactPhone": "950-986-9570"
+      }
+    },
+    {
+      "id": "950d",
+      "type": "Internship",
+      "title": "Maria Farrell",
+      "description": "Modi fugiat inventore doloremque autem dolorum aut voluptatem velit.",
+      "salary": "$150K - $175K",
+      "location": "Hilpert - O'Kon",
+      "company": {
+        "name": "Ruecker - Bruen",
+        "description": "Welch - Brakus",
+        "contactEmail": "your.email+fakedata24471@gmail.com",
+        "contactPhone": "864-328-4602"
+      }
+    },
+    {
+      "id": "d4e9",
+      "type": "Remote",
+      "title": "Hiram O'Kon",
+      "description": "Adipisci nulla dolorum exercitationem.",
+      "salary": "$175K - $200K",
+      "location": "Mayert - Ortiz",
+      "company": {
+        "name": "Keeling Group",
+        "description": "Reilly LLC",
+        "contactEmail": "your.email+fakedata77753@gmail.com",
+        "contactPhone": "883-235-3398"
+      }
+    },
+    {
+      "id": "0b85",
+      "type": "Remote",
+      "title": "Tyreek Harvey",
+      "description": "Quas vel aut iusto blanditiis eaque maxime sint doloribus.",
+      "salary": "$80K - $90K",
+      "location": "Lehner - Nienow",
+      "company": {
+        "name": "Jaskolski, O'Kon and Pfeffer",
+        "description": "Stokes LLC",
+        "contactEmail": "your.email+fakedata16061@gmail.com",
+        "contactPhone": "009-962-5418"
+      }
+    },
+    {
+      "id": "f51f",
+      "type": "Internship",
+      "title": "Alejandra Graham",
+      "description": "Fugit dolores officia doloremque ab porro voluptatem atque pariatur.",
+      "salary": "$80K - $90K",
+      "location": "Yost LLC",
+      "company": {
+        "name": "Gutkowski, D'Amore and Block",
+        "description": "McClure - Lynch",
+        "contactEmail": "your.email+fakedata23178@gmail.com",
+        "contactPhone": "863-070-0007"
+      }
+    },
+    {
+      "id": "5218",
+      "type": "Remote",
+      "title": "Reagan Kris",
+      "description": "Delectus laboriosam sint.",
+      "salary": "Over $200K",
+      "location": "Jacobson and Sons",
+      "company": {
+        "name": "Hackett, Bailey and Cassin",
+        "description": "Stiedemann, Feeney and Champlin",
+        "contactEmail": "your.email+fakedata70675@gmail.com",
+        "contactPhone": "775-493-0385"
+      }
+    },
+    {
+      "id": "ce1f",
+      "type": "Remote",
+      "title": "Kaleigh Doyle",
+      "description": "In molestias harum sit excepturi excepturi repudiandae facilis nobis.",
+      "salary": "$150K - $175K",
+      "location": "Pollich - Pfeffer",
+      "company": {
+        "name": "Jones LLC",
+        "description": "Rau - Konopelski",
+        "contactEmail": "your.email+fakedata60884@gmail.com",
+        "contactPhone": "362-283-1153"
+      }
+    },
+    {
+      "id": "9c36",
+      "type": "Part-Time",
+      "title": "Jovani Larson",
+      "description": "Rem harum eaque deserunt cumque voluptatum blanditiis.",
+      "salary": "$80K - $90K",
+      "location": "Ratke Inc",
+      "company": {
+        "name": "Marvin - Sporer",
+        "description": "Parisian - Nader",
+        "contactEmail": "your.email+fakedata59676@gmail.com",
+        "contactPhone": "679-061-4970"
+      }
+    },
+    {
+      "id": "5c4c",
+      "type": "Internship",
+      "title": "Lula Jacobson",
+      "description": "Nihil blanditiis alias magnam inventore eos dolore ea.",
+      "salary": "Over $200K",
+      "location": "Larkin, Aufderhar and Hartmann",
+      "company": {
+        "name": "Goldner, Kuhlman and Mueller",
+        "description": "Prohaska Inc",
+        "contactEmail": "your.email+fakedata33337@gmail.com",
+        "contactPhone": "214-159-0388"
+      }
+    },
+    {
+      "id": "95ce",
+      "type": "Part-Time",
+      "title": "Megane Ratke",
+      "description": "Unde cupiditate quos voluptates mollitia provident.",
+      "salary": "$50K - $60K",
+      "location": "Murphy, Nitzsche and Ortiz",
+      "company": {
+        "name": "Kunze - Bayer",
+        "description": "Harvey, Yundt and Zboncak",
+        "contactEmail": "your.email+fakedata15785@gmail.com",
+        "contactPhone": "440-231-9129"
+      }
+    },
+    {
+      "id": "9f19",
+      "type": "Internship",
+      "title": "Terence Champlin",
+      "description": "Assumenda incidunt possimus repellendus.",
+      "salary": "$80K - $90K",
+      "location": "Padberg Inc",
+      "company": {
+        "name": "Hodkiewicz LLC",
+        "description": "DuBuque - Stiedemann",
+        "contactEmail": "your.email+fakedata96921@gmail.com",
+        "contactPhone": "791-663-3690"
+      }
+    },
+    {
+      "id": "78e9",
+      "type": "Part-Time",
+      "title": "Cristobal Reichert",
+      "description": "Saepe magni soluta ut eaque officia nam provident.",
+      "salary": "$50K - $60K",
+      "location": "Glover Group",
+      "company": {
+        "name": "Osinski - Boyer",
+        "description": "Senger, Senger and Feest",
+        "contactEmail": "your.email+fakedata52338@gmail.com",
+        "contactPhone": "551-316-8400"
+      }
+    },
+    {
+      "id": "e2b1",
+      "type": "Remote",
+      "title": "Dashawn Botsford",
+      "description": "Tempora ut harum a nam veniam commodi ducimus mollitia.",
+      "salary": "$100K - $125K",
+      "location": "Ebert, Towne and O'Kon",
+      "company": {
+        "name": "Spencer and Sons",
+        "description": "Ernser, Grant and Schmitt",
+        "contactEmail": "your.email+fakedata95890@gmail.com",
+        "contactPhone": "123-458-0013"
+      }
+    }
+  ]
+}
